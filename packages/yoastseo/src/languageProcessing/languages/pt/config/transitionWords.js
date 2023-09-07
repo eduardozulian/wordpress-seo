@@ -17,7 +17,7 @@ export const multipleWords = [
 	"em segundo lugar", "em síntese", "em suma", "em terceiro lugar", "em virtude de", "finalmente", "isto é",
 	"já que", "juntamente com", "logo após", "logo depois", "logo que", "mesmo que", "não apenas", "nesse hiato", "nesse ínterim", "nesse meio tempo",
 	"nesse sentido", "no entanto", "no momento em que", "ou por outra", "ou seja", "para que", "pelo contrário", "por analogia",
-	"por causa de", "por certo", "por conseguinte", "por conseqüência", "porém", "por exemplo", "por fim", "por isso", "por mais que",
+	"por causa de", "por certo", "por conseguinte", "por consequência", "porém", "por exemplo", "por fim", "por isso", "por mais que",
 	"por menos que", "por outro lado", "por vezes", "posto que", "se acaso", "se bem que", "seja como for", "sem dúvida", "sempre que",
 	"só para exemplificar", "só para ilustrar", "só que", "sob o mesmo ponto de vista", "talvez provavelmente", "tanto quanto",
 	"todas as vezes que", "todas as vezes em que", "uma vez que", "visto que",
